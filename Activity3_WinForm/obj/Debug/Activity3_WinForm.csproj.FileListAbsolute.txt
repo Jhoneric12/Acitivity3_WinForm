@@ -1,0 +1,8 @@
+C:\Users\Karl\Desktop\C#_Aton\Activity3_WinForm\Activity3_WinForm\bin\Debug\Activity3_WinForm.exe.config
+C:\Users\Karl\Desktop\C#_Aton\Activity3_WinForm\Activity3_WinForm\bin\Debug\Activity3_WinForm.exe
+C:\Users\Karl\Desktop\C#_Aton\Activity3_WinForm\Activity3_WinForm\bin\Debug\Activity3_WinForm.pdb
+C:\Users\Karl\Desktop\C#_Aton\Activity3_WinForm\Activity3_WinForm\obj\Debug\Activity3_WinForm.Form1.resources
+C:\Users\Karl\Desktop\C#_Aton\Activity3_WinForm\Activity3_WinForm\obj\Debug\Activity3_WinForm.Properties.Resources.resources
+C:\Users\Karl\Desktop\C#_Aton\Activity3_WinForm\Activity3_WinForm\obj\Debug\Activity3_WinForm.csproj.GenerateResource.Cache
+C:\Users\Karl\Desktop\C#_Aton\Activity3_WinForm\Activity3_WinForm\obj\Debug\Activity3_WinForm.exe
+C:\Users\Karl\Desktop\C#_Aton\Activity3_WinForm\Activity3_WinForm\obj\Debug\Activity3_WinForm.pdb
